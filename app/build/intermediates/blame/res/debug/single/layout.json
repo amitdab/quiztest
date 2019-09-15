@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game_won.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\src\\main\\res\\layout\\fragment_game_won.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\src\\main\\res\\layout\\fragment_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_title.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\src\\main\\res\\layout\\fragment_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game_lost.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\src\\main\\res\\layout\\fragment_game_lost.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\Fragtest\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    }
+]
